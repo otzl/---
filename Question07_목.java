@@ -1,16 +1,16 @@
-package µÑÂ°ÁÖ;
+package ë‘˜ì§¸ì£¼;
 
 import java.util.Scanner;
 
-public class Question07_¸ñ {
+public class Question07_ëª© {
 
 	public static void main(String[] args) {
 
-		// 10Áø¼ö Á¤¼ö¸¦ ÀÔ·Â¹Þ¾Æ 2Áø¼ö·Î º¯È¯ÇØ¼­ Ãâ·ÂÇÏ½Ã¿À.
+		// 10ì§„ìˆ˜ ì •ìˆ˜ë¥¼ ìž…ë ¥ë°›ì•„ 2ì§„ìˆ˜ë¡œ ë³€í™˜í•´ì„œ ì¶œë ¥í•˜ì‹œì˜¤.
 
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("¼ýÀÚÀÔ·Â>>");
+		System.out.println("ìˆ«ìžìž…ë ¥>>");
 		int input = sc.nextInt();
 
 		int[] array = { 0, 1 };
@@ -30,6 +30,6 @@ public class Question07_¸ñ {
 			if(num == 0)
 				break;
 		}
-		System.out.println(a);
+		System.out.println(a); 
 	}
 }
