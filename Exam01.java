@@ -14,7 +14,7 @@ public class Exam01 {
 		
 		String[] a = str.split("");
 		Arrays.sort(a);
-		return String.join("", a);
+		return String.join("", a);  
 	}
 
 }
