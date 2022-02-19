@@ -1,14 +1,14 @@
-package µÑÂ°ÁÖ;
+package ÂµÃ‘Ã‚Â°ÃÃ–;
 
-public class Question11_±İ {
+public class Question11_Â±Ã {
 
 	public static void main(String[] args) {
 
-		int num = 1;
+		int num = 1; 
 		int num1 = 1;
 		int[][] array = new int[5][5];
 		
-		System.out.println("¿øº»");
+		System.out.println("Â¿Ã¸ÂºÂ»");
 		for(int i = 0; i < array.length; i++) {
 			for(int j= 0; j < array[0].length; j++) {
 				array[i][j] = num;
@@ -18,7 +18,7 @@ public class Question11_±İ {
 			System.out.println(" ");
 		}
 		System.out.println(" ");
-		System.out.println("180µµ È¸Àü");
+		System.out.println("180ÂµÂµ ÃˆÂ¸Ã€Ã¼");
 		for(int i = 4; i >= 0; i--) {
 			for(int j = 4; j >= 0; j--) {
 				System.out.printf(" %2d",array[i][j]);
