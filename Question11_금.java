@@ -1,6 +1,6 @@
 package µÑÂ°ÁÖ;
 
-public class Question11_±Ý {
+public class Question11_±Ý { 
 
 	public static void main(String[] args) {
 
