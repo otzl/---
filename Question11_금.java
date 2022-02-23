@@ -3,7 +3,7 @@ package µÑÂ°ÁÖ;
 public class Question11_±Ý { 
 
 	public static void main(String[] args) {
-
+ 
 		int num = 1; 
 		int num1 = 1;
 		int[][] array = new int[5][5];
